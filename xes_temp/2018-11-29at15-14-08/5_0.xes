@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <log>
+        <extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext"/>
+        <extension name="Lifecycle" prefix="lifecycle" uri="http://www.xes-standard.org/lifecycle.xesext"/>
+    	<trace>
+      <string key="concept:name" value="0"/>
+      <event>
+          <string key="concept:name" value="1"/>
+      </event>
+      <event>
+          <string key="concept:name" value="0"/>
+      </event>
+      <event>
+          <string key="concept:name" value="2"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1"/>
+      <event>
+          <string key="concept:name" value="0"/>
+      </event>
+      <event>
+          <string key="concept:name" value="1"/>
+      </event>
+      <event>
+          <string key="concept:name" value="2"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="2"/>
+      <event>
+          <string key="concept:name" value="1"/>
+      </event>
+      <event>
+          <string key="concept:name" value="2"/>
+      </event>
+      <event>
+          <string key="concept:name" value="0"/>
+      </event>
+	</trace>
+</log>

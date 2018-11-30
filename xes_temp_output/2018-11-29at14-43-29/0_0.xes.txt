@@ -1,0 +1,1 @@
+Xor(And(Seq(1, 2), 0), XorLoop(Seq(3, 4), 5, tau))

@@ -1,0 +1,2 @@
+,CV_ngrams_max,CV_ngrams_min,base_folder,dataset,folder_name,mean,stats,svd_n_components,test.shape,train.shape
+0,2,1,/Users/gbernar1/Dropbox/PhD_cloud/01-Research/02-present/Customer_Journey_Mapping/14_prediction/07-correctionTreeReplayer/processTreePredictor2/,data/round 3 treeSeed 1.xes.csv,2018-11-29at16-20-48/,1.0,"DescribeResult(nobs=5, minmax=(1.0, 1.0), mean=1.0, variance=0.0, skewness=0.0, kurtosis=-3.0)",200,5,20
